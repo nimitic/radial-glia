@@ -13,5 +13,5 @@ The analysis is divided into folders correponding to different figures:
 
 ### Data and scripts description  
 
-The datasets presented in the manuscript are: scRNA-seq of the adult zebrafish brain, lineage tracing of the larval brain at 5 dpf and a SLAM-seq dataset of the adult telencephalon with Notch pathway pertrbation. All datasets can be downloaded from GEO. Additional files necessary for the analysis are included in the folders along with the scripts.  
+The datasets presented in the manuscript are: scRNA-seq of the adult zebrafish brain, lineage tracing of the adult brain based on developmental lineage barcoding and a SLAM-seq dataset of the adult telencephalon with Notch pathway pertrbation. All datasets can be downloaded from GEO. Additional files necessary for the analysis are included in the folders along with the scripts.  
 
