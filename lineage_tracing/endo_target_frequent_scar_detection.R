@@ -2,9 +2,7 @@
 # Written by Bastiaan Spanjaard
 
 suppressPackageStartupMessages(library(ggplot2))
-require(igraph)
 suppressPackageStartupMessages(library(reshape2))
-require(stringdist)
 require(plyr)
 require(data.table)
 suppressPackageStartupMessages(library(openxlsx))
@@ -33,7 +31,7 @@ compare_scars <- function(input_dat_name, dat_name, gene_names, scar_probabiliti
         
         print(paste0('Comparing gene ', gene_it))
         
-        Z1.scars <- f_scars_in_trnscrptm[f_scars_in_trnscrptm$Gene == gene_it,]
+        Z1.scars <- all.scars.g1[all.scars.g1$Gene == gene_it,]
         
         
         if(nrow(Z1.scars) == 0){
