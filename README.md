@@ -9,7 +9,8 @@ The analysis is divided into folders correponding to different figures:
 * Larval comparison - comparison of adult cell types from this dataset with larval cell types published in the paper by Raj B. et al (2020) (Fig. 3A)
 * Lineage tracing - clonal analysis of lineage relationships between larval cell types at 5 dpf (Fig. 3B)  
 * RNA velocity - region-specific differentiation trajectories based on RNA velocity (Fig. 4)  
-* Metabolic labeling - *in vivo* labeling with the scSLAMseq method in the zebrafish telencephalon (Fig. 5)  
+* Metabolic labeling - *in vivo* labeling with the scSLAMseq method in the zebrafish telencephalon (Fig. 5)
+* slam-velocity - using the scSLAMseq data to generate differentiation trajectories (Fig. 5)
 
 ### Data and scripts description  
 
