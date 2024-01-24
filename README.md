@@ -8,7 +8,7 @@ The analysis is divided into folders correponding to different figures:
 * Adult brain - cell type clustering and gene expression analysis of the adult zebrafish brain scRNAseq dataset (Fig. 1, Fig. 2)  
 * Larval comparison - comparison of adult cell types from this dataset with larval cell types published in the paper by Raj B. et al (2020) (Fig. 3A)
 * Lineage tracing - clonal analysis of lineage relationships between larval cell types at 5 dpf (Fig. 3B)  
-* RNA velocity - region-specific differentiation trajectories based on RNA velocity (Fig. 4)  
+* RNA velocity - region-specific differentiation trajectories based on RNA velocity & using CellRank to create target macrostates in intron velocity data and compute transition probabilities (Fig. 4)  
 * Metabolic labeling - *in vivo* labeling with the scSLAMseq method in the zebrafish telencephalon (Fig. 5)
 * slam-velocity - using the scSLAMseq data to generate differentiation trajectories (Fig. 5)
 
