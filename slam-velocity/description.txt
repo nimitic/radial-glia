@@ -1,0 +1,4 @@
+Scripts in this folder were contributed by Bastiaan Spanjaard.
+
+Dynamo.py: preprocess RNA-labeling velocity data to fit in CellRank pipeline
+CellRank_neurons_SLAM.py: Use CellRank to create target macrostates in intron + RNA-labeling velocity data and compute transition probabilities (figure 5).
