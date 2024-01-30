@@ -10,7 +10,7 @@ The analysis is divided into folders correponding to different figures:
 * Lineage tracing - clonal analysis of lineage relationships between larval cell types at 5 dpf (Fig. 3B)  
 * RNA velocity - region-specific differentiation trajectories based on RNA velocity & using CellRank to create target macrostates in intron velocity data and compute transition probabilities (Fig. 4)  
 * Metabolic labeling - *in vivo* labeling with the scSLAMseq method in the zebrafish telencephalon (Fig. 5)
-* slam-velocity - using the scSLAMseq data to generate differentiation trajectories (Fig. 5)
+* Slam-velocity - using the scSLAMseq data to generate differentiation trajectories (Fig. 5)
 
 ### Data and scripts description  
 
